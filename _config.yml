@@ -1,0 +1,14 @@
+layout_spectrum: 0.7934233
+typography_spectrum: 0.6720067
+color:
+  saturation: 0.5218129
+  lightness: 0.05028915
+  brandStrength: 1
+  brandColors:
+    - '#301E15'
+    - '#5B4C39'
+    - '#C6B6A1'
+    - '#A2927F'
+    - '#FFE9C6'
+  rhythmicContrast: 0.9841596
+name: Hullagulla
