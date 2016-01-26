@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hullagulla]]></title>
         <description><![CDATA[Hullagulla]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hullagulla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 16:12:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 16:12:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hullagulla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cute baby]]></title>
+            <description><![CDATA[<article><h1>cute baby</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0f65a5252e39b5974fda0837b53e1c510a93acd.png"></article>]]></description>
+            <link>https://thegrid.ai/hullagulla/cute-baby/index.html</link>
+            <guid isPermaLink="false">d865da1e-9726-4e34-85d0-ea88bfecccad</guid>
+            <pubDate>Tue, 26 Jan 2016 16:12:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Half hala]]></title>
             <description><![CDATA[<article><h1>Half hala</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52799d78e6034c4f3b03d1963b050e5b111ebf94.png"></article>]]></description>
-            <link>undefinedhalf-hala/index.html</link>
+            <link>https://thegrid.ai/hullagulla/half-hala/index.html</link>
             <guid isPermaLink="false">45870590-8151-4b8b-9f47-89fdbd74404e</guid>
             <pubDate>Tue, 26 Jan 2016 16:12:32 GMT</pubDate>
         </item>
