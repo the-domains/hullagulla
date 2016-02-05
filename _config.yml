@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.5084317
 color:
   saturation: 0.4629005
   brandStrength: 0.455312
-  lightness: 0.6770658
+  rhythmicContrast: 0.9841596
   brandColors:
     - '#0D0E0C'
     - '#B34170'
     - '#FFFFFF'
     - '#C7C688'
     - '#777642'
-  rhythmicContrast: 0.9841596
-layout_spectrum: 1
+  lightness: 0.6770658
+layout_spectrum: 0.7419899
 name: Hullagulla
